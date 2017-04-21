@@ -1,0 +1,11 @@
+welcome: Welcome to smartcontroller. tell me the commands for smartcontroller ?
+
+yesvalue: The light is turned ON
+
+novalue: The Light is turned OFF
+
+wrongvalue: sorry couldnt execute the request you asked
+
+openvalue: Sensor page is opened
+
+showvalue: camera page is opened
